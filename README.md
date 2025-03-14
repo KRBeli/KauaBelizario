@@ -10,7 +10,7 @@
 - 🐍 **Linguagens:** Python (Pandas, NumPy, Matplotlib)
 
 📫 **Contato:**  
-[LinkedIn](www.linkedin.com/in/kauã-reis-belizario-5434a125b) | 
-[E-mail](kauabeli21@gmail.com)  
+www.linkedin.com/in/kauã-reis-belizario-5434a125b | 
+kauabeli21@gmail.com  
 
 ---
