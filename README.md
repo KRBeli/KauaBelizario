@@ -7,7 +7,7 @@
 - 📊 **BI & Dashboards:** Looker Studio, Power BI  
 - 🗄️ **Banco de Dados:** SQL (MySQL, BigQuery)  
 - 📜 **Automação:** Google Sheets + Apps Script  
-- 🐍 **Linguagens:** Python (Pandas, NumPy, Matplotlib)
+- 🐍 **Linguagens:** Python
 
 📫 **Contato:**  
 www.linkedin.com/in/kauã-reis-belizario-5434a125b | 
